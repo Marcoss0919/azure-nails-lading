@@ -37,4 +37,4 @@ Este projeto é uma **Landing Page** desenvolvida para um salão de manicure/nai
 ## ▶️ Como executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Marcos0919/carregamento-de-pregos-azuis.git
+   https://github.com/Marcos0919/carregamento-de-pregos-azuis.git
