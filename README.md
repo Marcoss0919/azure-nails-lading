@@ -34,7 +34,6 @@ Este projeto é uma **Landing Page** desenvolvida para um salão de manicure/nai
 
 ---
 
-## ▶️ Como executar
-1. Clone este repositório:
-   ```bash
-   https://github.com/Marcos0919/carregamento-de-pregos-azuis.git
+## 🌐 Acesse o projeto online
+Você pode visualizar a Landing Page publicada através do GitHub Pages neste link:  
+👉 [Azure Nails Landing Page](https://marcoss0919.github.io/azure-nails-lading/)
